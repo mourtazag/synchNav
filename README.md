@@ -6,4 +6,4 @@ Synchronize a list on anchor to its target on scroll.
 
 Require : 
 - throttle from https://github.com/mourtazag/utils
-- scrollIt from
+- scrollIt from https://github.com/mourtazag/scrollIt

@@ -1,8 +1,7 @@
 import { throttle } from "./utils.js";
 import scrollIt from "./scrollIt.js";
 
-export default 
-function synchNav(links, options) {
+export default function synchNav(links, options) {
 
     let triggerChangePosition;
     if(options.positionTopTrigger && typeof options.positionTopTrigger === "number") {
